@@ -1,6 +1,6 @@
 # Neural_Network_Charity_Analysis
 ## Overview of the analysis
-Explain the purpose of this analysis.
+I will use the features in the provided dataset to help Beks create a binary classifier that is capable of predicting whether applicants will knowledge of machine learning and neural networks,
 
 ## Results
 Using bulleted lists and images to support your answers, address the following questions.
