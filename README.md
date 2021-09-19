@@ -1,6 +1,6 @@
 # Neural_Network_Charity_Analysis
 ## Overview of the analysis
-I will use the features in the provided dataset of the machine learning and neural network knowledge to help Beks create a binary classifier that is capable of predicting whether an organization will receive funding from Alphabet Soup. To be specific, Scikit learn and TensorFlow will be used to create a binary classification. Generally, we will.
+The purpose of this project is to use the features in the provided dataset of the machine learning and neural network knowledge to help Beks create a binary classifier that is capable of predicting whether an organization will receive funding from Alphabet Soup. To be specific, Scikit learn and TensorFlow will be used to create a binary classification. 
 
 ## Results
 Using bulleted lists and images to support your answers, address the following questions.
